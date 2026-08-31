@@ -1,38 +1,63 @@
-<h2 align="center">Hi, I'm Imane 👋</h2>
+<h1 align="center">Hi, I'm Imane 👋</h1>
+<h3 align="center">AI Engineering Student · RAG · Multi-Agent Systems · Applied ML</h3>
 
 <p align="center">
-AI engineering student in Morocco, finishing my degree at ENIAD Berkane.<br/>
-I build things where AI meets real problems — legal tech, healthcare, finance.<br/>
-Currently looking for my final-year internship (PFE) — open to opportunities in Morocco or abroad.
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+### About
+
+AI Engineering student at ENIAD Berkane (Université Mohammed Premier), supervised by Pr. Mohamed Khalifa Boutahir. I like taking AI past the notebook — building pipelines that scrape, structure, retrieve, and reason over real, messy data (legal texts, medical records, financial documents). Currently open to my final-year internship (PFE), in Morocco or abroad.
+
+### Tech Stack
+
+**AI / ML** — PyTorch · RAG · LangGraph · Multi-Agent Systems (JADE, MCP, A2A) · Reinforcement Learning (DQN, PPO, GRPO) · Computer Vision
+**Backend** — Flask · FastAPI · Docker
+**Data & Retrieval** — FAISS · BM25 · PyMuPDF · Tesseract OCR
+**Frontend** — React · TypeScript · Streamlit
+
+### Featured Projects
+
+**🏛️ Mizan** — Bilingual AI legal assistant for Moroccan SMEs
+Async scraping of 2,200+ Court of Cassation decisions, OCR + PyMuPDF extraction pipeline, hybrid RAG (BM25 + FAISS multilingual-e5-small), Llama 3.3 70B generation.
+`RAG` `BM25` `Flask` `React` `Docker`
+📊 4,176-document corpus · 92% hallucination-eval score · 100% source fidelity
+
+**🏥 MedTechIA** — Microservices AI platform for medical practices
+Team project (10-day internship). I own the bilans extraction and RAG patient-dossier modules.
+`FastAPI` `PyMuPDF` `Tesseract` `FAISS/BM25` `Groq` `Docker`
+
+**⚕️ SysOrient-Clinique** — LangGraph clinical orientation workflow
+Multi-agent system routing patients through a clinical journey, built as a Multi-Agent Systems course project.
+`LangGraph` `FastAPI` `Streamlit` `Ollama` `MCP` `Docker`
+
+**🕹️ DRL Interactive Explorer** — Educational site for Deep Reinforcement Learning concepts, deployed on GitHub Pages.
+`Python` `JavaScript` `HTML`
+
+**🤝 InsightDeal** — Multi-agent due diligence platform for Moroccan SMEs, adapted from a hackathon project for an internship challenge.
+`LangGraph` `Multi-Agent`
+
+### Hackathons
+
+**Sovereign Mind** — CDG Capital MIATHON 2025
+Multi-agent financial intelligence platform, team of 5, addressing two challenges at once.
+`LangGraph` `Groq Llama 3.3 70B` `Tavily` `FastAPI (SSE)` `React/D3.js` `ReportLab`
+
+### Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| Heart Disease Classifier | SVM model, 85.2% accuracy, F1=0.846, served via Flask API | `scikit-learn` `Flask` |
+| Smart Notes AI | RAG-powered study assistant | `Streamlit` `FAISS` `Groq` `PyMuPDF` |
+
+### Education
+
+| Degree | School | 
+|---|---|
+| Engineering Cycle — AI & Data Science | ENIAD Berkane |
+| DUT — Web & Mobile Development | EST Nador |
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,react,ts,flask,fastapi,docker,git,postgres,scikitlearn" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-**🔍 [Mizan](link)**
-Bilingual AI legal assistant for Moroccan SMEs — RAG pipeline over 4,000+ court decisions, BM25 retrieval, Llama 3.3 70B for generation.
-`RAG` `BM25` `Llama 3.3` `React` `Flask` `Docker`
-
-**🤝 InsightDeal**
-Multi-agent due diligence platform for Moroccan SMEs, built with a team of coordinated AI agents.
-`Multi-Agent` `LangGraph` `Due Diligence`
-
-**🏥 [SysOrient-Clinique](link)**
-Clinical orientation workflow built on LangGraph, deployed with FastAPI and Docker.
-`LangGraph` `FastAPI` `Docker` `SQLite`
-
----
+📩 Open to PFE opportunities — reach out via [LinkedIn](YOUR_LINKEDIN_URL) or [email](mailto:YOUR_EMAIL)
