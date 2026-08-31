@@ -152,14 +152,6 @@ Adapted from a hackathon project for an internship challenge, using specialized 
 * ⚙️ Production-ready AI microservices
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berradaimane&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berradaimane&layout=compact&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
