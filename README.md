@@ -71,7 +71,7 @@ Bilingual AI legal assistant designed to help Moroccan SMEs interact with legal 
 
 ---
 
-### 🏥 MedTechIA — AI Microservices Platform for Medical Practices
+### 🏥 MedSanad — AI Microservices Platform for Medical Practices
 
 AI-powered microservices platform designed to assist medical practices with medical document processing, patient information, and intelligent assistance.
 
