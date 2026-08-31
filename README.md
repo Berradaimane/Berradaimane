@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imaneberrada-ai">
+  <a href="https://www.linkedin.com/in/imane-berrada-ai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:berrada.imane.ia@gmail.com">
@@ -25,7 +25,7 @@ I enjoy turning real-world, unstructured data into intelligent applications thro
 
 My projects cover legal intelligence, medical document processing, clinical workflows, financial due diligence, and interactive AI/ML education.
 
-🎯 **Currently seeking a final-year PFE internship in AI/ML, RAG, LLMs, or intelligent systems — in Morocco or abroad.**
+🎯 **Currently seeking a final-year PFE internship in AI/ML, RAG, LLMs, or intelligent systems in Morocco or abroad.**
 
 ---
 
@@ -121,15 +121,7 @@ Adapted from a hackathon project for an internship challenge, using specialized 
 
 ---
 
-## 🏆 Hackathons
 
-### Sovereign Mind — CDG Capital MIATHON 2025
-
-Multi-agent financial intelligence platform developed by a team of 5 to address two financial intelligence challenges.
-
-The platform combines AI agents, real-time information retrieval, financial analysis, interactive visualization, and automated reporting.
-
-`LangGraph` `Groq Llama 3.3 70B` `Tavily` `FastAPI` `SSE` `React` `D3.js` `ReportLab`
 
 ---
 
@@ -146,7 +138,7 @@ The platform combines AI agents, real-time information retrieval, financial anal
 
 | Degree                                    | Institution                                 |
 | ----------------------------------------- | ------------------------------------------- |
-| **Engineering Cycle — AI & Data Science** | ENIAD Berkane · Université Mohammed Premier |
+| **Engineering Cycle — AI**                | ENIAD Berkane · Université Mohammed Premier |
 | **DUT — Web & Mobile Development**        | EST Nador                                   |
 
 ---
@@ -164,8 +156,8 @@ The platform combines AI agents, real-time information retrieval, financial anal
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Berradaimane&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berradaimane&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
