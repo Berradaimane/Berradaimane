@@ -29,24 +29,16 @@ My projects cover legal intelligence, medical document processing, clinical work
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**AI / LLMs**  
-PyTorch · RAG · LLMs · LangGraph · NLP · Computer Vision
+AI & ML
+[ Python ] [ PyTorch ] [ Scikit-learn ] [ LangGraph ] [ Hugging Face ]
 
-**Multi-Agent Systems**  
-JADE · MCP · A2A · LangGraph
+RAG & Data
+[ FAISS ] [ BM25 ] [ PyMuPDF ] [ Tesseract ] [ LangChain ]
 
-**Machine Learning**  
-DQN · PPO · GRPO · Classical ML
-
-**Data & Retrieval**  
-FAISS · BM25 · Multilingual Embeddings · PyMuPDF · Tesseract OCR
-
-**Backend & Infrastructure**  
-Flask · FastAPI · REST APIs · Docker
-
-**Frontend**  
+Engineering
+[ FastAPI ] [ Flask ] [ Docker ] [ React ] [ TypeScript ] [ Streamlit ]
 React · TypeScript · Streamlit
 
 ---
