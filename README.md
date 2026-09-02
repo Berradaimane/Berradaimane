@@ -28,49 +28,41 @@ My projects cover legal intelligence, medical document processing, clinical work
 🎯 **Currently seeking a final-year PFE internship in AI/ML, RAG, LLMs, or intelligent systems in Morocco or abroad.**
 
 ---
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+**AI & Machine Learning**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-6E56CF?style=flat-square)
+![LLMs](https://img.shields.io/badge/-LLMs-6E56CF?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-6E56CF?style=flat-square)
+![DQN](https://img.shields.io/badge/-DQN-6E56CF?style=flat-square)
+![PPO](https://img.shields.io/badge/-PPO-6E56CF?style=flat-square)
+![GRPO](https://img.shields.io/badge/-GRPO-6E56CF?style=flat-square)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface" />
-</p>
+**Retrieval & Document AI**
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
+![BM25](https://img.shields.io/badge/-BM25-0467DF?style=flat-square)
+![PyMuPDF](https://img.shields.io/badge/-PyMuPDF-0467DF?style=flat-square)
+![Tesseract OCR](https://img.shields.io/badge/-Tesseract%20OCR-0467DF?style=flat-square)
 
-<p align="center">
-  <code>RAG</code> · <code>LLMs</code> · <code>LangGraph</code> ·
-  <code>Computer Vision</code> · <code>DQN</code> · <code>PPO</code> · <code>GRPO</code>
-</p>
+**Multi-Agent Systems**
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![JADE](https://img.shields.io/badge/-JADE-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-1C3C3C?style=flat-square)
+![A2A](https://img.shields.io/badge/-A2A-1C3C3C?style=flat-square)
 
-### 🔎 Retrieval & Document AI
+**Backend & Infrastructure**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain" />
-</p>
-
-<p align="center">
-  <code>FAISS</code> · <code>BM25</code> · <code>PyMuPDF</code> ·
-  <code>Tesseract OCR</code> · <code>Multilingual Embeddings</code>
-</p>
-
-### 🤝 Multi-Agent Systems
-
-<p align="center">
-  <code>LangGraph</code> · <code>JADE</code> · <code>MCP</code> · <code>A2A</code>
-</p>
-
-### ⚙️ Backend & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript" />
-  <br>
-  <code>Streamlit</code>
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ---
 
 ## Featured Projects
