@@ -53,7 +53,7 @@ React · TypeScript · Streamlit
 
 ## Featured Projects
 
-### 🏛️ [Mizan — AI Legal Assistant for Moroccan SMEs](YOUR_MIZAN_REPO_URL)
+### 🏛️ [Mizan — AI Legal Assistant for Moroccan SMEs](https://github.com/AouannarDoua/LegalAI_Morocco_PFA)
 
 Bilingual AI legal assistant designed to help Moroccan SMEs interact with legal and judicial information.
 
@@ -71,7 +71,9 @@ Bilingual AI legal assistant designed to help Moroccan SMEs interact with legal 
 
 ---
 
-### 🏥 [MedSanad — AI Microservices Platform for Medical Practices](YOUR_MEDSANAD_REPO_URL)
+### 🏥 MedSanad — AI Microservices Platform for Medical Practices
+
+**Private team project**
 
 AI-powered microservices platform designed to assist medical practices with medical document processing, patient information, and intelligent assistance.
 
@@ -89,9 +91,11 @@ My contributions include:
 
 `FastAPI` `PyMuPDF` `Tesseract` `FAISS` `BM25` `Groq` `React` `Docker`
 
+> 🔒 Repository is private because it is a collaborative project.
+
 ---
 
-### ⚕️ [SysOrient-Clinique — Multi-Agent Clinical Orientation](YOUR_SYSORIENT_REPO_URL)
+### ⚕️ [SysOrient-Clinique — Multi-Agent Clinical Orientation](https://github.com/AouannarDoua/SysOrient-Clinique)
 
 Multi-agent clinical orientation workflow developed as a **Multi-Agent Systems course project**.
 
@@ -101,7 +105,7 @@ The system guides patients through a structured clinical journey using specializ
 
 ---
 
-### 🕹️ [DRL Interactive Explorer](YOUR_DRL_REPO_URL)
+### 🕹️ [DRL Interactive Explorer](https://github.com/Berradaimane/drl-explorer)
 
 Interactive educational website designed to make **Deep Reinforcement Learning** concepts easier to understand.
 
@@ -111,7 +115,7 @@ Covers agents, environments, rewards, policies, and reinforcement learning algor
 
 ---
 
-### 🤝 [InsightDeal — Multi-Agent Due Diligence](YOUR_INSIGHTDEAL_REPO_URL)
+### 🤝 InsightDeal — Multi-Agent Due Diligence
 
 Multi-agent platform designed to assist with **financial and business due diligence for Moroccan SMEs**.
 
@@ -123,7 +127,7 @@ Adapted from a hackathon project for an internship challenge, using specialized 
 
 ## 🏆 Hackathons
 
-### 🧠 [Sovereign Mind — CDG Capital MIATHON 2025](YOUR_SOVEREIGN_MIND_REPO_URL)
+### 🧠 Sovereign Mind — CDG Capital MIATHON 2025
 
 Multi-agent financial intelligence platform developed by a team of 5 to address two financial intelligence challenges.
 
@@ -137,8 +141,8 @@ The platform combines AI agents, real-time information retrieval, financial anal
 
 | Project | Description | Stack |
 |---|---|---|
-| ❤️ [**Heart Disease Classifier**](YOUR_HEART_REPO_URL) | SVM model achieving 85.2% accuracy and F1-score of 0.846, served through a Flask API | `scikit-learn` `Flask` |
-| 📝 [**Smart Notes AI**](YOUR_SMART_NOTES_REPO_URL) | RAG-powered study assistant for interacting with personal study documents | `Streamlit` `FAISS` `Groq` `PyMuPDF` |
+| ❤️ [**Heart Disease Classifier**](https://github.com/Berradaimane/heart-disease-prediction-web-app) | SVM model achieving 85.2% accuracy and F1-score of 0.846, served through a Flask API | `scikit-learn` `Flask` |
+| 📝 [**Smart Notes AI**](https://github.com/Berradaimane/smart-notes-ai) | RAG-powered study assistant for interacting with personal study documents | `Streamlit` `FAISS` `Groq` `PyMuPDF` |
 
 ---
 
