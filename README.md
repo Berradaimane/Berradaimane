@@ -31,18 +31,25 @@ My projects cover legal intelligence, medical document processing, clinical work
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### AI & ML
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface,langchain" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,react,typescript" />
+### Backend & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,react,typescript,streamlit" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,git,github" />
-</p>
+### RAG & Document AI
 
+`FAISS` · `BM25` · `PyMuPDF` · `Tesseract OCR` · `Multilingual Embeddings`
+
+### Multi-Agent Systems
+
+`LangGraph` · `JADE` · `MCP` · `A2A`
 ---
 
 ## Featured Projects
