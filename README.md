@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Imane Berrada — AI Engineering Student" width="100%">
+</p>
 <h3 align="center">
   AI Engineering Student · RAG · LLMs · Multi-Agent Systems · Applied ML
 </h3>
