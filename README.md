@@ -28,28 +28,49 @@ My projects cover legal intelligence, medical document processing, clinical work
 🎯 **Currently seeking a final-year PFE internship in AI/ML, RAG, LLMs, or intelligent systems in Morocco or abroad.**
 
 ---
-
 ## 🛠️ Tech Stack
 
-### AI & ML
+### 🤖 AI & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface,langchain" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface" />
 </p>
 
-### Backend & Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,react,typescript,streamlit" />
+<p align="center">
+  <code>RAG</code> · <code>LLMs</code> · <code>LangGraph</code> ·
+  <code>Computer Vision</code> · <code>DQN</code> · <code>PPO</code> · <code>GRPO</code>
 </p>
 
-### RAG & Document AI
+### 🔎 Retrieval & Document AI
 
-`FAISS` · `BM25` · `PyMuPDF` · `Tesseract OCR` · `Multilingual Embeddings`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=langchain" />
+</p>
 
-### Multi-Agent Systems
+<p align="center">
+  <code>FAISS</code> · <code>BM25</code> · <code>PyMuPDF</code> ·
+  <code>Tesseract OCR</code> · <code>Multilingual Embeddings</code>
+</p>
 
-`LangGraph` · `JADE` · `MCP` · `A2A`
+### 🤝 Multi-Agent Systems
+
+<p align="center">
+  <code>LangGraph</code> · <code>JADE</code> · <code>MCP</code> · <code>A2A</code>
+</p>
+
+### ⚙️ Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript" />
+  <br>
+  <code>Streamlit</code>
+</p>
 ---
 
 ## Featured Projects
