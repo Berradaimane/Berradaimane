@@ -31,15 +31,17 @@ My projects cover legal intelligence, medical document processing, clinical work
 
 ## 🛠️ Tech Stack
 
-AI & ML
-[ Python ] [ PyTorch ] [ Scikit-learn ] [ LangGraph ] [ Hugging Face ]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface,langchain" />
+</p>
 
-RAG & Data
-[ FAISS ] [ BM25 ] [ PyMuPDF ] [ Tesseract ] [ LangChain ]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,react,typescript" />
+</p>
 
-Engineering
-[ FastAPI ] [ Flask ] [ Docker ] [ React ] [ TypeScript ] [ Streamlit ]
-React · TypeScript · Streamlit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=streamlit,git,github" />
+</p>
 
 ---
 
