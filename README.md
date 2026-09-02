@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile-banner.png" alt="Imane Berrada — AI Engineering Student" width="100%">
-</p>
-
 <h3 align="center">
   AI Engineering Student · RAG · LLMs · Multi-Agent Systems · Applied ML
 </h3>
@@ -28,6 +24,7 @@ My projects cover legal intelligence, medical document processing, clinical work
 🎯 **Currently seeking a final-year PFE internship in AI/ML, RAG, LLMs, or intelligent systems in Morocco or abroad.**
 
 ---
+
 ### 🛠️ Tech Stack
 
 **AI & Machine Learning**
@@ -63,6 +60,7 @@ My projects cover legal intelligence, medical document processing, clinical work
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 ---
 
 ## Featured Projects
